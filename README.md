@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Springboard Exercise
+
+This project was to practice using `react-dom-router`. I also used `Material UI` for additional practice.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
