@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link as RouterLink } from 'react-router-dom';
 import { Link, Button } from '@material-ui/core';
-
+import './Candy.css';
 const Candy = () => {
 	return (
 		<React.Fragment>

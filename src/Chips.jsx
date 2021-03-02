@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link as RouterLink } from 'react-router-dom';
 import { Button } from '@material-ui/core';
-
+import './Chips.css';
 const Chips = () => {
 	const [ count, setCount ] = useState(0);
 	const handleClick = () => {
