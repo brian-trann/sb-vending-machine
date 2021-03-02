@@ -11,11 +11,11 @@ const Candy = () => {
 					Home
 				</Button>
 			</div>
-			{/* <div>
+			<div>
 				<Link component={RouterLink} to='/'>
-					Home
+					Home - Regular Material UI link
 				</Link>
-			</div> */}
+			</div>
 		</React.Fragment>
 	);
 };
